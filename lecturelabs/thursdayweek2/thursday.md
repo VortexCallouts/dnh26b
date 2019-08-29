@@ -1,0 +1,1 @@
+i feel that i got everything done however this was very confusing and could have been made a lot easier with a proper tutorial or even a video tutorial
