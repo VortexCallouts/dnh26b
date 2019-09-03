@@ -8,7 +8,7 @@
 4) Media Outlets
 
 
-#Users:
+# Users:
  Photographers
     - To be able to upload and delete images of their own
  Editors
@@ -16,13 +16,13 @@
 Journalists 
      - be able to download and view images
     
-#System Requirments:
+# System Requirments:
  - Restrict user access
  - able to upload pictures to the cloud
  - login user interface 
  - image gui search
 
-#Functional Requirments:
+# Functional Requirments:
 
 - Upload time stamps
 - Geo Location
