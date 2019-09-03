@@ -1,6 +1,6 @@
-##Requirments 
+# Requirments 
 
-##Stake Holders:
+# Stake Holders:
 
 1) Photograpghers
 2) Journalists
