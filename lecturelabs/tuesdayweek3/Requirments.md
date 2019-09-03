@@ -2,10 +2,10 @@
 
 # Stake Holders:
 
-1) Photograpghers
-2) Journalists
-3) Editors
-4) Media Outlets
+- Photograpghers
+- Journalists
+- Editors
+- Media Outlets
 
 
 # Users:
